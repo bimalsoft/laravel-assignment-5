@@ -2,16 +2,16 @@
 
 ## Customer
 
--   **Name**: Nobita
--   **Email**: xylequby@polkaroad.net
+-   **Name**: Bimal Ghosh
+-   **Email**: colima6755@jofuso.com
 -   **Password**: 123456
 
 ## Admin
 
--   **Name**: Ninja Hattori
--   **Email**: navixtbd@gmail.com
+-   **Name**: Admin
+-   **Email**: geniusdevlead@gmail.com
 -   **Password**: 123456
 
 ## Presentation
 
-[Presentation Link](https://drive.google.com/file/d/15JO3rIc-l638KWtjqu6mWPUlt-3-RFjF/view?usp=sharing)
+[Presentation Link](https://drive.google.com/file/d/1CnGwnjN5UDZq35wAV61eDD__XkQSxjsL/view?usp=sharing)
